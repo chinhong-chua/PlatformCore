@@ -1,0 +1,12 @@
+/Users/cruz/PlatformCore/Core/bin/Debug/net5.0/Core.deps.json
+/Users/cruz/PlatformCore/Core/bin/Debug/net5.0/Core.dll
+/Users/cruz/PlatformCore/Core/bin/Debug/net5.0/ref/Core.dll
+/Users/cruz/PlatformCore/Core/bin/Debug/net5.0/Core.pdb
+/Users/cruz/PlatformCore/Core/obj/Debug/net5.0/Core.csproj.AssemblyReference.cache
+/Users/cruz/PlatformCore/Core/obj/Debug/net5.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cruz/PlatformCore/Core/obj/Debug/net5.0/Core.AssemblyInfoInputs.cache
+/Users/cruz/PlatformCore/Core/obj/Debug/net5.0/Core.AssemblyInfo.cs
+/Users/cruz/PlatformCore/Core/obj/Debug/net5.0/Core.csproj.CoreCompileInputs.cache
+/Users/cruz/PlatformCore/Core/obj/Debug/net5.0/Core.dll
+/Users/cruz/PlatformCore/Core/obj/Debug/net5.0/ref/Core.dll
+/Users/cruz/PlatformCore/Core/obj/Debug/net5.0/Core.pdb
